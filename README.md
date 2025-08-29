@@ -21,4 +21,4 @@ This project predicts whether a patient is **Diabetic** or **Non-Diabetic** base
 
 ---
 ## Screenshot
-<img width="1600" height="18000" alt="screencapture-localhost-8889-notebooks-Desktop-projects-Disease-Prediction-Model-Disease-prediction-ipynb-2025-08-29-20_16_57" src="https://github.com/user-attachments/assets/d2fc1214-2898-407d-9f56-0f1d94e1a59e" />
+<img src="screencapture-localhost-8889-notebooks-Desktop-projects-Disease-Prediction-Model-Disease-prediction-ipynb-2025-08-29-20_16_57.png" />
